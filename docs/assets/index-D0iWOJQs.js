@@ -18,7 +18,7 @@
  * pinia v2.2.6
  * (c) 2024 Eduardo San Martin Morote
  * @license MIT
- */const ac=Symbol();var rr;(function(e){e.direct="direct",e.patchObject="patch object",e.patchFunction="patch function"})(rr||(rr={}));function dc(){const e=ti(!0),t=e.run(()=>Kr({}));let n=[],s=[];const r=kr({install(o){r._a=o,o.provide(ac,r),o.config.globalProperties.$pinia=r,s.forEach(i=>n.push(i)),s=[]},use(o){return!this._a&&!uc?s.push(o):n.push(o),this},_p:n,_a:null,_e:e,_s:new Map,state:t});return r}const hc="./assets/img-cv-y5yGz3LR.png";/*!
+ */const ac=Symbol();var rr;(function(e){e.direct="direct",e.patchObject="patch object",e.patchFunction="patch function"})(rr||(rr={}));function dc(){const e=ti(!0),t=e.run(()=>Kr({}));let n=[],s=[];const r=kr({install(o){r._a=o,o.provide(ac,r),o.config.globalProperties.$pinia=r,s.forEach(i=>n.push(i)),s=[]},use(o){return!this._a&&!uc?s.push(o):n.push(o),this},_p:n,_a:null,_e:e,_s:new Map,state:t});return r}const hc="./cv-online/assets/img-cv-y5yGz3LR.png";/*!
   * vue-router v4.4.5
   * (c) 2024 Eduardo San Martin Morote
   * @license MIT
