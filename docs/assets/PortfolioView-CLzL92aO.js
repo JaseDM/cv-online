@@ -1,0 +1,1 @@
+import{_ as a,c as e,a as o,o as r}from"./index-C1je_WhI.js";const n="/cv-online/assets/portfolio-DgGacNfe.jpg",t={};function c(l,s){return r(),e("main",null,s[0]||(s[0]=[o("h2",null,"Trabajos",-1),o("div",{class:"scroll-in"},[o("img",{src:n,alt:"Imagen con trabajos realizados por José Miguel Díaz"})],-1)]))}const f=a(t,[["render",c]]);export{f as default};
